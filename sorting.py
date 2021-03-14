@@ -1,7 +1,7 @@
 #!/bin/python3
 import copy
 '''
-Python provides built-in sort/sorted functions that use timsort internally.
+Python provides built--in sort/sorted functions that use timsort internally.
 You cannot use these built-in functions anywhere in this file.
 
 Every function in this file takes a comparator `cmp` as input
